@@ -34,10 +34,10 @@
 #PayrightHowitWorksmodalPopup header {
   display: flex;
   justify-content: center;
-  padding: 1rem 0 2rem;
+  padding: 1rem 0 0;
 }
 #PayrightHowitWorksmodalPopup header img {
-  height: 55px;
+  height: 100px;
 }
 #PayrightHowitWorksmodalPopup h1,
 #PayrightHowitWorksmodalPopup h2,
